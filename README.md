@@ -40,7 +40,7 @@ The dashboard provides insights into profitability, growth, liquidity, and solve
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
